@@ -7,4 +7,5 @@ Convultional Approach(using conv2d layers) and
 Better Convolutional Approach(by applying average pooling, max pooling, and dropout techniques)
 
 # Results
-Achieved accuracy of 80%
+Achieved accuracy of 80%.
+The images were converted into grey-scale as the color was not important in deriving the required results.
